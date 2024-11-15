@@ -42,7 +42,7 @@
 ----------
 改进项目合集（改进哪个模型订阅哪个模型即可，订阅后可以看对应的《完整版项目改进内容》，比如改进 【YOLO11】 项目，点击以下YOLO11项目链接即可）
 
-🍉 - [YOLO11改进项目-YOLO11Pro](https://github.com/iscyy/YOLO11)  👉 **项目**
+🍉 - [YOLO11改进项目目录说明-YOLO11Pro](https://www.yuque.com/mangguoai-oaad7/yolo11)  👉 **项目**
 
 订阅方式：联系QQ：**2434798737** 或者 👉[bilibili哔哩哔哩](https://space.bilibili.com/1532780812)  私信
 
